@@ -8,3 +8,6 @@ It utilizes the FastLED library by Daniel Garcia (https://github.com/FastLED/Fas
 ## Hardware ##
 I ran this code on an Arduino Uno in conjunction with an indiviually adressable WS2812B LED Strip. A 100µF capacitor was used in parallel with the power supply.
 I used a 5V 4A 20W power supply. This obviously varies by the number of LEDs used.
+
+For further details on the wiring please refer to this article:
+https://howtomechatronics.com/tutorials/arduino/how-to-control-ws2812b-individually-addressable-leds-using-arduino/
